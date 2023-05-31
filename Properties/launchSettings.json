@@ -2,7 +2,7 @@
   "profiles": {
     "SampleLogicApp": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7027",
+      "commandLineArgs": "--port 8080",
       "launchBrowser": false
     }
   }
